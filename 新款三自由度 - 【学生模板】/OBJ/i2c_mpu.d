@@ -1,0 +1,16 @@
+..\obj\i2c_mpu.o: ..\HARDWARE\MPU6050_IIC_Hardware\i2c_MPU.c
+..\obj\i2c_mpu.o: ..\HARDWARE\MPU6050_IIC_Hardware\i2c_MPU.h
+..\obj\i2c_mpu.o: ..\USER\stm32f10x.h
+..\obj\i2c_mpu.o: ..\CORE\core_cm3.h
+..\obj\i2c_mpu.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\i2c_mpu.o: ..\USER\system_stm32f10x.h
+..\obj\i2c_mpu.o: ..\USER\stm32f10x_conf.h
+..\obj\i2c_mpu.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\i2c_mpu.o: ..\USER\stm32f10x.h
+..\obj\i2c_mpu.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\i2c_mpu.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\i2c_mpu.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\i2c_mpu.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\i2c_mpu.o: ..\STM32F10x_FWLib\inc\stm32f10x_i2c.h
+..\obj\i2c_mpu.o: ..\SYSTEM\delay\delay.h
+..\obj\i2c_mpu.o: ..\SYSTEM\sys\sys.h
